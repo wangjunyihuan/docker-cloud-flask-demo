@@ -24,7 +24,7 @@ $ export APP_SETTINGS="skeleton.server.config.ProductionConfig"
 ```
 
 ### Create DB
-
+11111111111
 ```sh
 $ python manage.py create_db
 $ python manage.py db init
